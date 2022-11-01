@@ -1,4 +1,4 @@
-# Objetivos de la repositorio
+# Objetivos del repositorio
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
@@ -27,4 +27,4 @@ _ESTO ES UN TEXTO CON ÉNFASIS_
 
 __ESTO ES UN TEXTO EN NEGRITA__
 
-**OTRO TEXTO EN NEGRITAS*
+**OTRO TEXTO EN NEGRITAS**
